@@ -17,4 +17,4 @@ Raise your hand at any time with the 'Raise Hand' feature in Microsoft Teams dur
 
 ### Errors?
 
-If you find any mistake (typo or anything else), please [post an issue](https://github.com/guptajay/NTUOSS-NTUOSS-ReinforcementLearning/issues/new)! Thanks!
+If you find any mistake (typo or anything else), please post an issue! Thanks!
