@@ -1,6 +1,8 @@
 # NTUOSS Reinforcement Learning Workshop
 By [Jay Gupta](https://github.com/guptajay) for [NTU Open Source Society](https://github.com/ntuoss)
 
+![Poster](poster.png)
+
 ***Disclaimer*** The slides ([PDF](Slides.pdf), [Google Slides](https://docs.google.com/presentation/d/1wzvwmF85nGoy6s3Yb7ACaG5-ZNORvmXqK2By2dx7UAA/edit?usp=sharing)) and Codes in this repository are only meant to serve as a reference for the attendees of the workshop. It does not cover all the concepts or implementation details discussed during the actual workshop.
 
 <hr>
